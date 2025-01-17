@@ -1,4 +1,4 @@
-import wallet from "../../../../turbine-dev-wallet.json"
+import wallet from "../../turbine-dev-wallet.json"
 import { createUmi } from "@metaplex-foundation/umi-bundle-defaults"
 import { 
     createMetadataAccountV3, 
